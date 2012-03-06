@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.vcxproj", "{1E6F2073-1D89-494C-AF2D-265BBA01DB85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateProcess_CreateNoWindow_Test", "CreateProcess_CreateNoWindow_Test\CreateProcess_CreateNoWindow_Test.vcxproj", "{10A74ECE-5B2D-47D6-8B6F-A2F6BCD30B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6F2073-1D89-494C-AF2D-265BBA01DB85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E6F2073-1D89-494C-AF2D-265BBA01DB85}.Debug|Win32.Build.0 = Debug|Win32
+		{1E6F2073-1D89-494C-AF2D-265BBA01DB85}.Release|Win32.ActiveCfg = Release|Win32
+		{1E6F2073-1D89-494C-AF2D-265BBA01DB85}.Release|Win32.Build.0 = Release|Win32
+		{10A74ECE-5B2D-47D6-8B6F-A2F6BCD30B02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A74ECE-5B2D-47D6-8B6F-A2F6BCD30B02}.Debug|Win32.Build.0 = Debug|Win32
+		{10A74ECE-5B2D-47D6-8B6F-A2F6BCD30B02}.Release|Win32.ActiveCfg = Release|Win32
+		{10A74ECE-5B2D-47D6-8B6F-A2F6BCD30B02}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
